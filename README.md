@@ -16,3 +16,6 @@ Edits Made:
 
 How to install the patch:
   > Using NSMB editor: Open a clean ROM in NSMB editor and then go to the "Tools/Options" tab and there you will find "Import Patch". You click that and select my patch file and it will patch it for you. Should only take a few seconds and once it is complete, you can close NSMB editor and the clean ROM you selected is now the Modified Practice ROM!
+  > There is also Specialised Patching softwares out there such as xdelta. You can use these to patch the ROM as well.
+ 
+Thanks for Downloading My ROM hack and I hope you find it useful!
