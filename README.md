@@ -10,3 +10,4 @@ Edits Made:
   > 8-Bowser's Castle: A door has been added to the beginning that leads straight to the final boss room. There is also a door in the place of the kill switch that leads you back to the start, so you can practice Bowser jump over and over.
   > 6-1: This level has been turned into a firehops practice level
   > 5-B: This level has been turned into a level to practice hyperspeed and the successive frame perfect jumps
+  > 7-Castle: I have added a door that leads to the boss fight and I have also added a door that leads to the area where the theorised skip starts
