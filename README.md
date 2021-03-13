@@ -19,6 +19,7 @@ How to install the patch:
   > Using NSMB editor: Open a clean ROM in NSMB editor and then go to the "Tools/Options" tab and there you will find "Import Patch". You click that and select my patch file and it will patch it for you. Should only take a few seconds and once it is complete, you can close NSMB editor and the clean ROM you selected is now the Modified Practice ROM!
   > There is also Specialised Patching softwares out there such as xdelta. You can use these to patch the ROM as well.
  
- NOTE: The finished ROM will not include save info since save info is not stored in a .nds file. You will probably want a 100% completed .sav file. You can find 100% save files for this game using google. Its a bit of a grey area to distribute these .sav files so I'm just playing it safe and telling you where to find it.
+ NOTE: The finished ROM will not include save info since save info is not stored in a .nds file. As you can see, there is a .sav file that you will download too, this is my personal save file that I dumped from my card, this save file does not contain any copyrighted or nintendo owned material so it's distribution is legal. This save file contains two 100% files, one with shell equipped and one with fire equipped.
+ IN ORDER TO USE THE SAVE FILE, THE SAVE FILE MUST HAVE THE EXACT SAME NAME AS THE NDS FILE SO THAT YOUR FLASH CART WILL RECOGNISE TO USE THE SAVE.
  
 Thanks for Downloading My ROM hack and I hope you find it useful!
